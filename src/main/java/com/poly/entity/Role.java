@@ -1,4 +1,4 @@
-package com.poly.entity;
-
-public class Role {
-}
+//package com.poly.entity;
+//
+//public class Role {
+//}
